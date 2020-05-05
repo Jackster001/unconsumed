@@ -73,7 +73,6 @@ const Routes = (props) => (
                     iconColor='#3F7E44'  
                     iconName='user-alt'  
                 /> 
-
             </Scene>
         </ScrollView>
     </Router>
