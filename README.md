@@ -16,7 +16,7 @@ Scan QR code with expo app
 
 ## Technologies Used:
 
-* React.js
+* React Native
 * Redux
 * MongoDB
 * Express
